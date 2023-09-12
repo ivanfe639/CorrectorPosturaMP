@@ -1,0 +1,7 @@
+pyinstaller GUI.py --add-data="C:\Users\iobregon\AppData\Roaming\Python\Python38\site-packages\mediapipe\modules;mediapipe/modules" -F -w
+
+-F un solo archivo
+-w windowed no
+
+
+lo hice con el entorno virtual "venv" que creé
